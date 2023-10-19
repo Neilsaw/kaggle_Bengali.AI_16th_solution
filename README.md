@@ -1,11 +1,11 @@
 # kaggle_Bengali.AI_ASR_16th_solution
 
-This is my solution and train code library for
+This is my solution and train code library for  
 https://www.kaggle.com/competitions/bengaliai-speech
 
 (2023/7/18 ~ 10/18)
 
-detail solution at competition's discussion.
+detail solution at competition's discussion.  
 https://www.kaggle.com/competitions/bengaliai-speech/discussion/447965
 
 ## train
